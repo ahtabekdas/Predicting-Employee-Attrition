@@ -3,4 +3,4 @@ In this project, our primary objective is to develop a predictive model for empl
 
 Employee attrition prediction holds significant importance for businesses as it enables proactive measures to retain valuable talent and reduce turnover costs. By gaining insights into the factors influencing attrition, we can provide actionable recommendations to improve employee satisfaction and retention strategies.
 
-Kaggle project link = https://www.kaggle.com/competitions/nodeb
+Kaggle project link= https://www.kaggle.com/competitions/nodeb
